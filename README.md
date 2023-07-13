@@ -9,13 +9,14 @@
 - 📫 How to reach me: vladislav.ponomarenko9930@gmail.com
 
 ### Контакты:
+<br/>
 
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikhail-gorbadey" height="40" width="40" />][linkedin]
 [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="@gorbadey_m" height="40" width="40" />][telegram]
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@gorbadey_m" height="40" width="40" />][instagram]
 
 <br/>
-<br/>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
